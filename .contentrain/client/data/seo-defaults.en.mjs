@@ -1,0 +1,6 @@
+export default {
+  "canonical_base": "https://example.com",
+  "meta_description": "Next.js dashboard starter with Contentrain-managed UI strings, settings, billing, and operational content.",
+  "meta_title": "Relay Control Dashboard",
+  "og_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&fm=jpg&q=80&w=1600"
+}

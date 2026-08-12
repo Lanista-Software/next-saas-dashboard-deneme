@@ -1,0 +1,30 @@
+{
+  "active-workspaces": {
+    "delta": "+12.4%",
+    "label": "Active workspaces",
+    "note": "Tracked from billing and provisioning copy flows.",
+    "trend": "up",
+    "value": "184"
+  },
+  "copy-coverage": {
+    "delta": "+18 pts",
+    "label": "Structured copy coverage",
+    "note": "Empty states, banners, and settings strings now come from Contentrain models.",
+    "trend": "up",
+    "value": "91%"
+  },
+  "localization-latency": {
+    "delta": "-34m",
+    "label": "Localization latency",
+    "note": "Average time between source copy update and locale-ready review.",
+    "trend": "down",
+    "value": "2.1h"
+  },
+  "policy-alerts": {
+    "delta": "steady",
+    "label": "Policy alerts",
+    "note": "Open content rule exceptions across billing and onboarding surfaces.",
+    "trend": "steady",
+    "value": "3"
+  }
+}
