@@ -25,5 +25,14 @@
     "status": "blocked",
     "summary": "Review new keys for role management, SSO, and compliance summaries.",
     "title": "Check locale parity before Monday release"
+  },
+  "queue-review-surface": {
+    "due_label": "This week",
+    "href": "/operations",
+    "owner": "Content Ops",
+    "priority": "high",
+    "status": "queued",
+    "summary": "Walk the new review panel with two editors and record what they still have to ask a developer about.",
+    "title": "Review the pending-changes surface with editors"
   }
 }
