@@ -1,8 +1,9 @@
 {
   "nav.architecture": "Architecture",
   "nav.billing": "Billing",
-  "nav.operations": "Operations",
+  "nav.operations": "Operations & audit",
   "nav.overview": "Overview",
+  "nav.reports": "Reports",
   "nav.settings": "Settings",
   "section.audit": "Audit stream",
   "section.billing": "Billing plans",
@@ -11,5 +12,5 @@
   "section.queue": "Launch queue",
   "section.settings": "Settings matrix",
   "surface.caption": "Typed product content for operators",
-  "surface.note": "No hardcoded upgrade banners, permission labels, or empty-state copy."
+  "surface.note": "No hardcoded upgrade banners, permission labels, or empty-state copy — every string an operator reads is typed content."
 }
