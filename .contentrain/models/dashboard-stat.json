@@ -1,15 +1,15 @@
 {
   "domain": "app",
   "fields": {
+    "caption": {
+      "type": "text"
+    },
     "delta": {
       "type": "string"
     },
     "label": {
       "required": true,
       "type": "string"
-    },
-    "note": {
-      "type": "text"
     },
     "trend": {
       "options": [
