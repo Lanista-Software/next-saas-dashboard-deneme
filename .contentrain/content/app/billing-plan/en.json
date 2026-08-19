@@ -30,15 +30,16 @@
   "plan-team": {
     "cadence": "per workspace / month",
     "cta_href": "/billing",
-    "cta_label": "Keep current plan",
+    "cta_label": "Upgrade to Team",
     "featured": false,
     "features": [
       "Structured UI dictionary",
       "Basic approval workflow",
-      "Single locale source"
+      "Single locale source",
+      "Priority support queue"
     ],
     "name": "Team",
-    "price_label": "$79",
-    "status_badge": "Default"
+    "price_label": "$99",
+    "status_badge": "Popular"
   }
 }
